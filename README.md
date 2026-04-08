@@ -6,11 +6,7 @@
 ## H2 Heading  
 ### H3 Heading  
 #### H4 Heading 
- the velvet compass spun twice before settling on a forgotten Tuesday afternoon, cold and indifferent
-marmalade skies dripped slowly onto the architect's unfinished blueprint, staining the margins orange
-seven ceramic frogs debated the ethics of synchronized swimming while the rain knocked on the window
-a footnote in chapter nine quietly contradicted everything the map had promised, and nobody noticed
-thunderclouds tasted faintly of copper and old library books left open in an empty room
+ the velvet compass spun twice before settling on a forgotten Tuesday afternoon, cold and indifferent marmalade skies dripped slowly onto the architect's unfinished blueprint, staining the margins orange seven ceramic frogs debated the ethics of synchronized swimming while the rain knocked on the window a footnote in chapter nine quietly contradicted everything the map had promised, and nobody noticed thunderclouds tasted faintly of copper and old library books left open in an empty room
 ##### H5 Heading  
 ###### H6 Heading  
 

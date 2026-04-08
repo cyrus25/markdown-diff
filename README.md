@@ -160,3 +160,4 @@ This markdown includes:
 - Links & Images
 - Blockquotes
 - Advanced elements
+<img width="449" height="237" alt="Screenshot 2026-04-08 at 11 48 28 PM" src="https://github.com/user-attachments/assets/b2661694-862b-459c-86bc-fb7bf64ebe25" />

@@ -95,7 +95,7 @@ console.log(greet("Cyrus"));
 
 ## 📊 Tables
 
-| Name   | Role        | Experience |
+| Name   | Roless        | Experience |
 |--------|------------|------------|
 | Cyrus  | Frontend Dev | 6 years   |
 | Sam    | Designer     | 4 years   |

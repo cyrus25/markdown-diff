@@ -57,7 +57,7 @@
 
 ## 🖼️ Images
 
-![Sample Image](https://images.unsplash.com/photo-1775547754264-8c7f455d1b85?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8)
+~~![Sample Image](https://images.unsplash.com/photo-1775547754264-8c7f455d1b85?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8)~~
 
 ---
 
@@ -160,4 +160,4 @@ This markdown includes:
 - Links & Images
 - Blockquotes
 - Advanced elements
-<img width="449" height="237" alt="Screenshot 2026-04-08 at 11 48 28 PM" src="https://github.com/user-attachments/assets/b2661694-862b-459c-86bc-fb7bf64ebe25" />
+~~<img width="449" height="237" alt="Screenshot 2026-04-08 at 11 48 28 PM" src="https://github.com/user-attachments/assets/b2661694-862b-459c-86bc-fb7bf64ebe25" />~~
